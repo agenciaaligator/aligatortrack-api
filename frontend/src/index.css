@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Você pode adicionar estilos globais aqui ou criar um
+ * design system específico seguindo as cores e fontes
+ * descritas nas especificações (azul #1E40AF, verde #059669, cinza #6B7280).
+ */
